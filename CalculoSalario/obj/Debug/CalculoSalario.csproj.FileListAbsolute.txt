@@ -1,0 +1,10 @@
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia2\CalculoSalario\bin\Debug\CalculoSalario.exe.config
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia2\CalculoSalario\bin\Debug\CalculoSalario.exe
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia2\CalculoSalario\bin\Debug\CalculoSalario.pdb
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia2\CalculoSalario\obj\Debug\CalculoSalario.csproj.AssemblyReference.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia2\CalculoSalario\obj\Debug\CalculoSalario.Form1.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia2\CalculoSalario\obj\Debug\CalculoSalario.Properties.Resources.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia2\CalculoSalario\obj\Debug\CalculoSalario.csproj.GenerateResource.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia2\CalculoSalario\obj\Debug\CalculoSalario.csproj.CoreCompileInputs.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia2\CalculoSalario\obj\Debug\CalculoSalario.exe
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia2\CalculoSalario\obj\Debug\CalculoSalario.pdb
